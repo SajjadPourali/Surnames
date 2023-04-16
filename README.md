@@ -13,7 +13,7 @@ The dataset in this repository can be utilized for a wide range of applications,
 
 ## Usage
 
-To use this dataset, simply download the relevant data files in the desired format (e.g., CSV, TXT) from the repository. The data can then be incorporated into your own research, analysis, or machine learning projects.
+To use this dataset, simply download the relevant data files in the desired format (i.e., CSV, TXT) from the repository. The data can then be incorporated into your own research, analysis, or machine learning projects.
 
 Please note that the data in this repository is based on crawling locatefamily.com in July 2019 and may not reflect the most up-to-date information.
 
