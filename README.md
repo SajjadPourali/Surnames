@@ -8,8 +8,8 @@ This repository provides comprehensive data on surname dispersion around the wor
 The dataset in this repository can be utilized for a wide range of applications, including:
 
 -   **Machine Learning**: The dataset can be used for training machine learning models to predict or classify surnames based on geographic location and surnames popularity.
--   **Recommender Systems**: Surname dispersion data can be utilized in recommender systems to enhance personalized recommendations for users.
--   **Forensic Analysis**: Understanding surname dispersion can be crucial for forensic investigations, helping in identifying potential suspects country.
+-   **Recommender Systems**: It can be utilized in recommender systems to enhance personalized recommendations for users.
+-   **Forensic Analysis**: Understanding surname dispersion can be crucial for forensic investigations, might help to identify potential suspects country.
 
 ## Usage
 
